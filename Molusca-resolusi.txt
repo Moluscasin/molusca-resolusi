@@ -1,5 +1,6 @@
 - video youtube
  - story drama
  - video edukasi
+  * edukasi dinosaurus
 - video tiktok
 - feed instagram
